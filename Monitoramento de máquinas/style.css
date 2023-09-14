@@ -1,0 +1,45 @@
+header {
+    text-align: center;
+}
+
+
+body{ 
+    color: white;
+    background-color: black;
+     font-family: Arial, Helvetica, sans-serif;
+}
+
+ul{ 
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 16px;
+}
+
+a{
+    color: white;
+}
+
+img{ 
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid blue;
+
+}
+
+.center{
+    text-align: center;
+}
+
+.container{ 
+    padding: 0px 50px
+}
+
+section {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
